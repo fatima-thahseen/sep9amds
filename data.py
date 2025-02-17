@@ -30,7 +30,7 @@ while True:
 
     again = input("\nDo you want to reverse another string? (yes/no): ").strip().lower()
     if again != "yes":
-        print("Goodbye! Have a great day! ")
+        print("Goodbye!! Have a great day! ")
         break
 
 
